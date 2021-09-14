@@ -1,0 +1,14 @@
+{
+	"useTabs": true,
+	"tabWidth": 2,
+	"semi": false,
+	"singleQuote": true,
+	"trailingComma": "es5",
+	"proseWrap": "never",
+	"htmlWhitespaceSensitivity": "ignore",
+	"endOfLine": "lf",
+	"quoteProps": "preserve",
+	"svelteSortOrder": "scripts-styles-markup-options",
+	"jsxBracketSameLine": true,
+	"arrowParens": "avoid"
+}
